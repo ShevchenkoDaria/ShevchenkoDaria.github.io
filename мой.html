@@ -1,0 +1,28 @@
+<! Doctype html>
+<head>
+<title>Нечитайло Захар</title>
+<meta charset="utf-8">
+<script>
+function clock() {
+var time = new Date();
+var h, m,s;
+h = time.getHours();
+m = time.geMinutes();
+h = time.getSeconds();
+if(s<10) s="0"+s;
+tm.innerHTML="<font color="pink">h+"."+m"."+s</font>";
+setInterval("clock()",1000);
+var y, mc, d;
+y = innerHTML="<font color="green">(y+1900)+"."+(mc+1)+"."+d</font>";
+mc = time.getMonth();
+d = time.getDate();
+}
+</script>
+</head>
+<body>
+Поточний час:<input type="text" id="tm">
+<p>
+Поточна дата:<input type="text" id="dt">
+<p><input type="button" value="Знайти" onclick="clock()">
+</body>
+</html>
