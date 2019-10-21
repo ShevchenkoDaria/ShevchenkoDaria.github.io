@@ -12,6 +12,7 @@ h1{
 h1{
 	color: #1E90FF;
 	text-align: center;
+	<i>
 	text-align: top;
 	text-shadow: 2px 2px 3px black;
 	font-size: 80pt;
@@ -26,17 +27,12 @@ h2{
 h3{
 	text-align: center;
 	text-align: top;
+	<i>
 	text-shadow: 2px 2px 3px black;
 	font-size: 20pt;
 }
-img{
-	width: 150px;
-	align: left; 
-	height: 200px; 
-	border: 1px; 
-	hspace: 20;
-	vspace: 13;
-}
+
+
 body{
 	background:url(fon.jpg);
 	background-attachment:fixed;
