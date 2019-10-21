@@ -2,11 +2,11 @@ h1{
 	color:darkred;
 	text-align:center;
 	font-face:arial;
+       <i>
+	font size="5"
+	font color="blue"
+	
   }
  body{background-image:url("http://kody.agency/images/expetro/el-expetro-03-1.jpg");}
- dt{color:darkred;}
- dd{color:darkred;}
-th{color:darkred;}
-td{color:darkred;}
-p{color:darkred;}
-li{color:darkred;}
+ dt,dd,th,td,p,li{color:darkred;}
+
