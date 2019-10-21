@@ -5,12 +5,12 @@ h1{
        <i>
 	p{
 	font-size:20pt;
-	color:#1E90FF;
+	color:#8B0000;
 	text-shadow:2px 2px 3px black;
 	text-align: center;
 }
 h1{
-	color: #1E90FF;
+	color: #18B0000;
 	text-align: center;
 	<i>
 	text-align: top;
@@ -18,7 +18,7 @@ h1{
 	font-size: 80pt;
 }
 h2{
-	color: #1E90FF;
+	color: #18B0000;
 	text-align: center;
 	text-align: top;
 	text-shadow: 2px 2px 3px black;
@@ -43,7 +43,7 @@ body{
 	link: black;
 }
 dt{
-	color: #1E90FF;
+	color: #8B0000;
 	font-size: 15pt;
 }
 dd{
