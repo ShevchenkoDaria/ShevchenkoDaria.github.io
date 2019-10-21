@@ -1,15 +1,15 @@
 h1{
-	color: DodgerBlue;
+	color: DodgerRed;
 	text-align: center;
 	text-align: top;
-	text-shadow: 3px 3px 5px DarkBlue;
-	font-size: 60px;
+	text-shadow: 3px 3px 5px DodgerRed;
+	font-size: 40px;
 }
 h2{
-	color: DodgerBlue;
+	color: DodgerRed;
 	text-align: center;
 	text-align: top;
-	text-shadow: 2px 2px 4px DarkBlue;
+	text-shadow: 2px 2px 4px DodgerRed;
 	font-size: 30px;
 }
 h3{
@@ -20,24 +20,24 @@ h3{
 	font-size: 20px;
 }
 body{
-    background-image: url("https://habrastorage.org/files/42e/d6b/a3b/42ed6ba3b1c34698880272577a2a06dc.jpg"); 
+    background-image: url("http://kody.agency/images/expetro/el-expetro-03-1.jpg"); 
      }
 a{
-   font-size:16px; 
+   font-size:20px; 
    color:red; 
 }
 a:hover {
-	font-size:16px; 
+	font-size:20px; 
 	color:red; 
 	font-weight:bold
 }
 p {
-	font-size:25pt;
+	font-size:20pt;
 	color:Black;
 	text-align: center;
 }
 dt{
-	color:Blue;
+	color:DodgerRed;
 	font-size: 20pt;
 }
 dd{
