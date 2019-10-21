@@ -1,15 +1,15 @@
 h1{
-	color: DodgerRed;
+	color: DarkRed;
 	text-align: center;
 	text-align: top;
-	text-shadow: 3px 3px 5px DodgerRed;
+	text-shadow: 3px 3px 5px DarkRed;
 	font-size: 40px;
 }
 h2{
-	color: DodgerRed;
+	color: DarkRed;
 	text-align: center;
 	text-align: top;
-	text-shadow: 2px 2px 4px DodgerRed;
+	text-shadow: 2px 2px 4px DarkRed;
 	font-size: 30px;
 }
 h3{
@@ -37,7 +37,7 @@ p {
 	text-align: center;
 }
 dt{
-	color:DodgerRed;
+	color:DarkRed;
 	font-size: 20pt;
 }
 dd{
