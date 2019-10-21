@@ -1,48 +1,50 @@
 h1{
-	color:darkred;
-	text-align:center;
-	font-face:arial;
-       <i>
-	p{
-	font-size:25pt;
-	color:#8B0000;
-	text-shadow:2px 2px 3px black;
+	color: DodgerBlue;
 	text-align: center;
-}
-h1{
-	color: #18B0000;
-	text-align: center;
-	<i>
 	text-align: top;
-	text-shadow: 2px 2px 3px black;
-	font-size: 80pt;
+	text-shadow: 3px 3px 5px DarkBlue;
+	font-size: 60px;
 }
 h2{
-	color: #18B0000;
+	color: DodgerBlue;
 	text-align: center;
 	text-align: top;
-	text-shadow: 2px 2px 3px black;
-	font-size: 50pt;
+	text-shadow: 2px 2px 4px DarkBlue;
+	font-size: 30px;
 }
 h3{
+	color: black;
 	text-align: center;
 	text-align: top;
-	<i>
-	text-shadow: 2px 2px 3px black;
-	font-size: 25pt;
+	text-shadow: 2px 2px 6px white;
+	font-size: 20px;
 }
-
+body{
+    background-image: url("https://habrastorage.org/files/42e/d6b/a3b/42ed6ba3b1c34698880272577a2a06dc.jpg"); 
+     }
+a{
+   font-size:16px; 
+   color:red; 
+}
+a:hover {
+	font-size:16px; 
+	color:red; 
+	font-weight:bold
+}
+p {
+	font-size:25pt;
+	color:Black;
+	text-align: center;
+}
 dt{
-	color: #8B0000;
+	color:Blue;
 	font-size: 20pt;
 }
 dd{
-	font-size: 20pt;
+	color:Black;
+	font-size: 18pt;
 }
-
-	
-	
-  }
- body{background-image:url("http://kody.agency/images/expetro/el-expetro-03-1.jpg");}
-
-
+img{
+	width: 270px;
+	height: 180px;
+}
