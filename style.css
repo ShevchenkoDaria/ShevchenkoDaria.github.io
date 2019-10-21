@@ -32,7 +32,7 @@ a:hover {
 	font-weight:bold
 }
 p {
-	font-size:15pt;
+	font-size:20pt;
 	color:#DC143C;
 	text-align: center;
 }
@@ -45,6 +45,6 @@ dd{
 	font-size: 18pt;
 }
 img{
-	width: 270px;
-	height: 180px;
+	width: 300px;
+	height: 400px;
 }
