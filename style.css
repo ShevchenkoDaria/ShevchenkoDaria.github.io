@@ -3,10 +3,60 @@ h1{
 	text-align:center;
 	font-face:arial;
        <i>
-	font size="5"
-	font color="blue"
+	p{
+	font-size:20pt;
+	color:#1E90FF;
+	text-shadow:2px 2px 3px black;
+	text-align: center;
+}
+h1{
+	color: #1E90FF;
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 3px black;
+	font-size: 80pt;
+}
+h2{
+	color: #1E90FF;
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 3px black;
+	font-size: 40pt;
+}
+h3{
+	text-align: center;
+	text-align: top;
+	text-shadow: 2px 2px 3px black;
+	font-size: 20pt;
+}
+img{
+	width: 150px;
+	align: left; 
+	height: 200px; 
+	border: 1px; 
+	hspace: 20;
+	vspace: 13;
+}
+body{
+	background:url(fon.jpg);
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	vlink: black; 
+	alink: lightgreen; 
+	link: black;
+}
+dt{
+	color: #1E90FF;
+	font-size: 15pt;
+}
+dd{
+	font-size: 15pt;
+}
+
+	
 	
   }
  body{background-image:url("http://kody.agency/images/expetro/el-expetro-03-1.jpg");}
- dt,dd,th,td,p,li{color:darkred;}
+
 
